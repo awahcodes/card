@@ -44,13 +44,12 @@ h2 {
   background-color: rgb(64, 118, 118);
   color: whitesmoke;
   letter-spacing: 1.5px;
-  transition: 0.7s ease-in-out;
 }
 
 .details:hover {
   color: whitesmoke;
   background-color: rgba(26, 7, 7, 0.7);
-  font-weight: 600;
+  font-weight: 500;
   cursor: pointer;
 }
 
@@ -66,7 +65,6 @@ h2 {
   outline: 1px solid rgb(64, 118, 118);
   margin-bottom: 10px;
   letter-spacing: 1.5px;
-  transition: 0.7s ease-in-out;
 }
 
 .seller:hover {
@@ -79,9 +77,4 @@ h2 {
 
 .container {
   display: flex;
-  flex-direction: column;
-}
-
-main {
-  color: red;
 }
